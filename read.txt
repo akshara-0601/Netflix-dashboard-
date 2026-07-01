@@ -1,0 +1,22 @@
+Netflix content analysis Dashboard:
+
+Project overview
+This dataset performs an end to end data analysis of the Netflix content library using a dataset
+sourced from Kaggle. The objective was to visualize key performance indicators to identify global
+content trends and distribution patterns.
+
+Key insights:
+    Content growth
+    Genre popularity 
+    Geographic distribution
+
+Tools & Technologies Used:
+    Data Visualization: Power BI
+    Data Sourcing: Kaggle 
+
+Methodology 
+Data cleaning:
+    Performed initial data exploration and cleaning using Microsoft Excel.
+
+Visualization:
+    Developed an interactive dashboard in power BI to analyze the content trends.
